@@ -1,4 +1,3 @@
-from datetime import datetime, date
 from ..engine import Engine
 
 class SternmanEngine(Engine):
