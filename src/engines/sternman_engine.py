@@ -1,5 +1,5 @@
 from datetime import datetime, date
-from engine import Engine
+from ..engine import Engine
 
 class SternmanEngine(Engine):
     def __init__(self, warning_light_on):
